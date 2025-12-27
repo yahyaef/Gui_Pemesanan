@@ -3,4 +3,4 @@ Sistem Pemesanan Kamar Hotel yang dibuat dengan intellij untuk membuat tampilan 
 
 # 1. Tampilan Utama
 Menampilakan Form Utama (halaman utama), menampilakan menu pilihan untuk sistem pemesanan kamar hotel ada beberapa pilihan. Saat mengklik salah satu menu akan menampilkan form lainya.
-![image alt](?raw=true)
+![image alt](https://github.com/yahyaef/Gui_Pemesanan/blob/1bd37fdfb0bf2434790859dc5e726b053a94fda7/menu.png?raw=true)
